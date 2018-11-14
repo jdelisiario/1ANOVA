@@ -1,0 +1,10 @@
+[1] "RESULTADO DO CALCULO DE TAMANHO AMOSTRAL VIA TESTE DE POTENCIA ANOVA"
+
+     Balanced one-way analysis of variance power calculation 
+
+         groups = 4
+              n = 29689.07
+    between.var = 0.001666667
+     within.var = 19.10113
+      sig.level = 0.05
+          power = 0.64
